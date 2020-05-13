@@ -1,2 +1,2 @@
 # data_engineer_nanodegree
-2020 data engineer nanodegree at Udacity
+This repository contains the projects I built for the Data Engineer Nanodegree Program (Udacity).
